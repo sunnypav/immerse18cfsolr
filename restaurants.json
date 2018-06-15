@@ -1,0 +1,22 @@
+[
+  {"id":"1", "name":"Red Lobster", "city":"San Francisco, CA", "rtype":"sitdown Chain", "state":"California", "tags":"seafood", "price":33.00},
+  {"id":"2", "name":"Red Lobster", "city":"Atlanta, GA", "rtype":"sitdown Chain", "state":"Georgia", "tags":"seafood", "price":22.00},
+  {"id":"3", "name":"Red Lobster", "city":"New York, NY", "rtype":"sitdown Chain", "state":"New York", "tags":"seafood", "price":29.00},
+  {"id":"4", "name":"McDonalds", "city":"San Francisco, CA", "rtype":"Fast Food", "state":"California", "tags":"hamburgers coffee wifi breakfast", "price":9.00},
+  {"id":"5", "name":"McDonalds", "city":"Atlanta, GA", "rtype":"Fast Food", "state":"Georgia", "tags":"hamburgers coffee wifi breakfast", "price":4.00},
+  {"id":"6", "name":"McDonalds", "city":"New York, NY", "rtype":"Fast Food", "state":"New York", "tags":"hamburgers coffee wifi breakfast", "price":4.00},
+  {"id":"7", "name":"McDonalds", "city":"Chicago, IL", "rtype":"Fast Food", "state":"Illinois", "tags":"hamburgers coffee wifi breakfast", "price":4.00},
+  {"id":"8", "name":"McDonalds", "city":"Austin, TX", "rtype":"Fast Food", "state":"Texas", "tags":"hamburgers coffee wifi breakfast", "price":4.00},
+  {"id":"9", "name":"Pizza Hut", "city":"Atlanta, GA", "rtype":"sitdown Chain", "state":"Georgia", "tags":"pizza delivery", "price":15.00},
+  {"id":"10", "name":"Pizza Hut", "city":"New York, NY", "rtype":"sitdown Chain", "state":"New York", "tags":"pizza delivery", "price":24.00},
+  {"id":"11", "name":"Pizza Hut", "city":"Austin, TX", "rtype":"sitdown Chain", "state":"Texas", "tags":"pizza delivery", "price":18.00},
+  {"id":"12", "name":"Freddy's Pizza Shop", "city":"Los Angeles, CA", "rtype":"Local sitdown", "state":"California", "tags":"pizza pasta", "price":25.00},
+  {"id":"13", "name":"The Iberian Pig", "city":"Atlanta, GA", "rtype":"Upscale", "state":"Georgia", "tags":"spanish tapas upscale", "price":45.00},
+  {"id":"14", "name":"Sprig", "city":"Atlanta, GA", "rtype":"Local sitdown", "state":"Georgia", "tags":"glutenfree southerncuisine", "price":15.00},
+  {"id":"15", "name":"Starbucks", "city":"San Francisco, CA", "rtype":"Coffee Shop", "state":"California", "tags":"coffee breakfast", "price":7.50},
+  {"id":"16", "name":"Starbucks", "city":"Atlanta, GA", "rtype":"Coffee Shop", "state":"Georgia", "tags":"coffee breakfast", "price":4.00},
+  {"id":"17", "name":"Starbucks", "city":"New York, NY", "rtype":"Coffee Shop", "state":"New York", "tags":"coffee breakfast", "price":6.50},
+  {"id":"18", "name":"Starbucks", "city":"Chicago, IL", "rtype":"Coffee Shop", "state":"Illinois", "tags":"coffee breakfast", "price":6.00},
+  {"id":"19", "name":"Starbucks", "city":"Austin, TX", "rtype":"Coffee Shop", "state":"Texas", "tags":"coffee breakfast", "price":5.00},
+  {"id":"20", "name":"Starbucks", "city":"Greenville, SC", "rtype":"Coffee Shop", "state":"South Carolina", "tags":"coffee breakfast", "price":3.00}
+]
