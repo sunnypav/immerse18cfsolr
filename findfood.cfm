@@ -107,13 +107,14 @@ document.getElementById("form").submit();
 <cfloop collection="#facets_r#" item="category" >
 	<b>#facetsNames[category]#</b><br/><br/>
 	<cfset count = structcount(facets_r[category])>
+	<cfset current = 1>
 	<cfloop collection="#facets_r[category]#" item="value">
-		<cfif i == count>
+		<cfif current == count>
 			<a href="javascript:addOpenRangeFacet('#category#', #value#)"><i>#value# - Above</i></a> <b>(#facets_r[category][value]#)</b><br/>
 		<cfelse>
 			<a href="javascript:addRangeFacet('#category#', #value#, #priceRangeGap#)"><i>#value# - #value + priceRangeGap#</i></a> <b>(#facets_r[category][value]#)</b><br/>
 		</cfif>	
-		<cfset count++>
+		<cfset current++>
 	</cfloop><br/>
 </cfloop>
 </cfif> 
